@@ -1,7 +1,7 @@
 import streamlit as st
 import joblib
 import numpy as np
-st.title ("SALARY PREDCTION APP")
+st.title ("SALARY PREDCTION SASI APP")
 
 st.divider()
 
@@ -27,4 +27,5 @@ if predict:
 
 
 else:
+
     "please press button for prediction"
